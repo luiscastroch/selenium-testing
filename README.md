@@ -23,5 +23,5 @@ https://the-internet.herokuapp.com
 2. Tener Java y Maven instalados
 3. Ejecutar:
 
- ## 👤 Autor
+ ## Autor
 QA Automation Engineer
